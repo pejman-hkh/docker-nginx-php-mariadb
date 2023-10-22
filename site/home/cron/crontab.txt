@@ -1,0 +1,1 @@
+* * * * * /usr/bin/php81 /home/cron/test.php
